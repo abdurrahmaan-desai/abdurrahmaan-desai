@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<figure><embed src="https://wakatime.com/share/@41445c96-28d5-44e6-ae34-a0f8859d2ecd/c1552bc6-6cc0-4422-b8a7-9343dc91c5e2.svg"></embed></figure>
+
 <!--
 **abdurrahmaan-desai/abdurrahmaan-desai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
